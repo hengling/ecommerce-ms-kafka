@@ -14,7 +14,7 @@ integração orientada a eventos com Apache Kafka.
 
 * **checkout**: microserviço de checkout
 * **payment**: microserviço de pagamento
-* **frontend**: frontend da aplicação // TODO
+* **frontend**: frontend da aplicação
 * **docker**: contém as dependências necessárias para subir o ambiente
 
 ## Executando o projeto
